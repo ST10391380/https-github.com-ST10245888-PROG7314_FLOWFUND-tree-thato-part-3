@@ -4,6 +4,6 @@
     "\\FlowFund.Api",
     "\\FlowFund.Api\\Data"
   ],
-  "SelectedNode": "\\publish.zip",
+  "SelectedNode": "\\FlowFund.Api\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
